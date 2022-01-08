@@ -1,0 +1,12 @@
+{
+  "links": [
+    {
+      "slug": "my-link",
+      "target": "https://www.google.com"
+    },
+    {
+      "slug": "t-rex",
+      "target": "https://webpack.js.org/"
+    }
+  ]
+}
